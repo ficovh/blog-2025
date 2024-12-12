@@ -1,11 +1,11 @@
 # site settings
-title: AJ Blogs
-subtitle: Blog page theme
-email: youremailaddress@gmail.com
-description: A simple and elegant jekyll theme for blogs.
-baseurl: "/aj-jekyll-blog-theme"
-url: "https://arihant-001.github.io"
-author: Arihant Jain
+title: Francisco Valladolid Blog
+subtitle: BSD & Linux Weblog
+email: ficovh@gmail.com
+description: Linux and BSD, Python and Perl blog.
+baseurl: "/"
+url: "https://blog.bsdguy.org"
+author: ficovh
 
 # social settings
 facebook_url: https://facebook.com/
