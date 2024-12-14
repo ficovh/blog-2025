@@ -2,7 +2,7 @@
 layout: post
 title: Instalando PostgreSQL en FreeBSD 14.1
 description: PostgreSQL en FreeBSD 14.1
-image: /assets/images/postgresql-freebsd.jpg
+image: assets/images/postgresql-freebsd.jpg
 ---
 
 # PostgreSQL en FreeBSD 14.1

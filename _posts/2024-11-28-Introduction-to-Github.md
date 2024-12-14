@@ -2,7 +2,7 @@
 layout: post
 title: Introducion a Github
 description: Aprendiendo Github basico
-image: /assets/images/github-copilot.jpg
+image: assets/images/github-copilot.jpg
 ---
 
 
