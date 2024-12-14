@@ -2,11 +2,11 @@
 layout: post
 title: PostgreSQL en Arch Linux
 description: Instalando PostgreSQL en Arch Linux 
-image: assets/images/db.jpg
+image: assets/images/postgresql-archlinux.png
 ---
 
 
-![database]({{ site.baseurl }}/assets/images/db.jpg)
+![database]({{ site.baseurl }}/assets/images/postgresql-archlinux.png)
 
 # Instalando y e iniciando PostgreSQL en Arch Linux
 
