@@ -14,17 +14,15 @@ image: assets/images/db.jpg
 
 ```shell
  sudo pacman -S postgresql 
-
 ```
 
 **2.- Ingresar como administrador de PotgreSQL e iniciar el motor de base de datos**
 
 ```shell
   $ sudo su - postgres
-   [sudo] password for ficovh:
+  [sudo] password for ficovh:
 
-   [postgres@devel ~]$ initdb -D /var/lib/postgres/data
-
+  [postgres@devel ~]$ initdb -D /var/lib/postgres/data
 ```
 **3.- configurar el servicio de PostgreSQL para iniciar automaticamente**
 
@@ -35,7 +33,7 @@ image: assets/images/db.jpg
 
 ```shell
   $ sudo su - postgres
-   [sudo] password for ficovh:
+  [sudo] password for ficovh:
 
   [postgres@devel ~]$ psql
   psql (16.3)

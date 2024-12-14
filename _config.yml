@@ -4,7 +4,7 @@ subtitle: BSD & Linux Weblog
 email: ficovh@gmail.com
 description: Linux and BSD, Python and Perl blog.
 baseurl: "/"
-url: "https://blog.bsdguy.org"
+url: "https://blog-2025-iota.vercel.app/"
 author: ficovh
 
 # social settings
